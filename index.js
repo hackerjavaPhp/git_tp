@@ -1,3 +1,3 @@
-function helloWorld () {
-    return "Hello World";
+function helloWorld ( num1, num2 ) {
+    return num1 + num2;
 }
